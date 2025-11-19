@@ -1,0 +1,84 @@
+Role: Machine Learning Engineer
+Location: Remote / Hybrid
+Experience Required: 1–3 years (or strong academic + project portfolio)
+
+About the Role
+
+We are looking for a Machine Learning Engineer with hands-on experience in deep learning, NLP, and building end-to-end AI solutions. The ideal candidate has experience working on computer vision or document intelligence systems, building semantic search pipelines, and training or fine-tuning deep learning models.
+
+You will work across the entire ML lifecycle—from data preprocessing and feature engineering to model development, evaluation, deployment, and retrieval-based search optimization.
+
+Responsibilities
+
+Develop, fine-tune, and evaluate deep learning models for document understanding, NLP, or computer vision tasks.
+
+Work with transformer-based architectures such as LayoutLM, BERT, or custom CNN/RNN/Generative models.
+
+Build semantic search systems using Elasticsearch, FAISS, or other vector databases.
+
+Implement retrieval-augmented generation (RAG) pipelines for intelligent document processing.
+
+Design and optimize data pipelines for structured and unstructured data (text, images, PDFs).
+
+Build and deploy end-to-end ML applications using Python and modern frameworks.
+
+Work closely with cross-functional teams to improve model performance, reliability, and scalability.
+
+Must-Have Skills
+
+Strong Python programming experience
+
+Experience with deep learning frameworks (PyTorch or TensorFlow)
+
+Hands-on experience with one or more:
+
+LayoutLM or other transformer/NLP models
+
+CNN/LSTM architectures
+
+GANs (CycleGAN or similar)
+
+Knowledge of semantic search (Elasticsearch, FAISS, or vector databases)
+
+Strong understanding of machine learning concepts: preprocessing, EDA, model training, evaluation
+
+Experience working with unstructured text or documents
+
+SQL and basic backend experience (FastAPI, Flask, etc.)
+
+Important Skills (Good to Have)
+
+MLOps practices (model versioning, reproducible pipelines)
+
+Experience with RAG pipelines
+
+Knowledge of cloud platforms (Google Cloud, AWS, or similar)
+
+Experience with OCR-based processing (Tesseract, RegEx)
+
+Frontend or UI experience using Streamlit, React, or similar
+
+Nice-to-Have Skills
+
+Experience with multilingual models
+
+Experience with BigQuery / Dataproc or similar cloud data tools
+
+Knowledge of vector embeddings and LLM-based search optimization
+
+Soft Skills
+
+Strong communication and documentation skills
+
+Problem-solving and analytical thinking
+
+Ability to work independently and with cross-functional teams
+
+Curiosity to learn emerging ML/AI techniques
+
+Minimum Experience
+
+1–3 years of relevant experience
+OR
+
+Strong academic/project portfolio demonstrating deep learning, model training, AI application development, and semantic search.
